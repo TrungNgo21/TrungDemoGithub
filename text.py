@@ -1,2 +1,2 @@
 print("Hello world")
-dit me may
+print("Wednesday")
